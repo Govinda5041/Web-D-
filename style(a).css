@@ -20,7 +20,7 @@ p {
   line-height: 1.6;
 }
 
-/* ii. Set a background image for both the page and single element on the page */
+
 body {
   background-image: url('forest_bg.jpg');
   background-size: cover;
@@ -38,7 +38,7 @@ body {
   text-align: center;
 }
 
-/* iii. Define styles for links */
+
 a {
   color: #1E90FF; /* Dodger Blue */
   text-decoration: none;
@@ -48,7 +48,7 @@ a:hover {
   text-decoration: underline;
 }
 
-/* iv. Working with layers */
+
 .featured-adventure {
   position: relative;
 }
@@ -71,7 +71,7 @@ a:hover {
   z-index: -1;
 }
 
-/* v. Adding a Customized cursor */
+
 a {
   cursor: url('pointer.png'), pointer;
 }
